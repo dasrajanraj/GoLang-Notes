@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//Declaring a variable a package level
+//Declaring a variable at package level
 /*
 Below example if, variable is used internally in package.
 */

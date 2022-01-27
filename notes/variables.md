@@ -5,17 +5,28 @@
 
 In go, we use "var" declare variable; followed by variable name and type of the variable. 
     example: 
-        ``` var programmingName string = "golang" ```
+
+        ``` 
+        var programmingName string = "golang"
+         ```
+
         or (dynamically assign a type)
-        ``` programmingName := 1 ```
+
+        ``` 
+        programmingName := 1
+        ```
 
 Type of Variable
 
 - Boolean Type
-    ``` 	var isCorrect bool = true; ```
+
+    ``` 
+    	var isCorrect bool = true; 
+    ```
 
 - Numeric Type
-    ``` var PORT int = 3001
-        var expenses float = 10.98
+    ``` 
+        var PORT int = 3001
+        var expenses float = 10.98 //float64
     ```
     
