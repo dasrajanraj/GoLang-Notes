@@ -20,6 +20,7 @@
 
 Other Resources: 
 [Why Go compiles so fast ](https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86)
+
 [Go: A Tale of Concurrency ( A Beginners Guide )](https://medium.com/swlh/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb)
 
 [Go library](https://pkg.go.dev/std)
