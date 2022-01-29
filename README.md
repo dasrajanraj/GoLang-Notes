@@ -44,3 +44,4 @@ Topics
 
 1. [Variables](./notes/variables.md)
 2. [Constants](./notes/constant.md)
+3. [Array and Slices](./notes/arrayAndSlices.md)
